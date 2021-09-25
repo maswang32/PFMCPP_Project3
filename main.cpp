@@ -57,59 +57,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Animal
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of legs
+    2) Number of arms
+    3) Number of eyes
+    4) Weight
+    5) Height
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Eat
+    2) Sleep
+    3) Die
  */
 
 /*
-Thing 2)
+Thing 2) Student
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Grade Level
+    2) Major
+    3) Shoe Size
+    4) Height
+    5) Age
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Study
+    2) Sleep
+    3) Eat
  */
 
 /*
-Thing 3)
+Thing 3) Teacher
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Years Taught
+    2) Department
+    3) Official Position
+    4) School
+    5) Degree Level
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Lecture
+    2) Test
+    3) Assign Homework
  */
 
 /*
-Thing 4)
+Thing 4) Vending Machine
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Number of Bags
+    2) Number of Bottles
+    3) Cost per Bag
+    4) Cost per Bottle
+    5) Weight
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Dispense Bag
+    2) Dispense Bottle
+    3) Alarm
  */
 
 
