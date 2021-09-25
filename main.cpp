@@ -80,7 +80,7 @@ Sub Object 5: Seat
         3) Seat Coolers
     Name 2 things you can do with the:   Seat
         1) Raise/lower seat height
-        2) adjust seat inclination
+        2) Adjust seat inclination
 */
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
