@@ -64,19 +64,6 @@ Part1 will be broken up into 5 separate steps
 3) Move the Thing 10 pseudo-code to after your Thing1-4 in the project.
 */
 
-/*
-Thing 10)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
 
 
 
@@ -137,7 +124,19 @@ Thing 4) Vending Machine
     3) Alarm
  */
 
-
+/*
+Thing 10) Car
+5 properties:
+    1) Steering Wheel
+    2) Air Conditioner
+    3) GPS
+    4) Window
+    5) Gear Shifter
+3 things it can do:
+    1) Start
+    2) Shut off
+    3) Drive to work
+ */
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
