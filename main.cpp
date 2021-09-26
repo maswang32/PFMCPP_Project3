@@ -71,11 +71,11 @@ Part1 will be broken up into 5 separate steps
 /*
 Thing 1) Animal
 5 properties:
-    1) Number of legs
-    2) Number of arms
-    3) Number of eyes
-    4) Weight
-    5) Height
+    1) Number of legs (int)
+    2) Number of arms (int)
+    3) Number of eyes (int)
+    4) Weight (double)
+    5) Height (double)
 3 things it can do:
     1) Eat
     2) Sleep
@@ -85,11 +85,11 @@ Thing 1) Animal
 /*
 Thing 2) Student
 5 properties:
-    1) Grade Level
-    2) Major
-    3) Shoe Size
-    4) Height
-    5) Age
+    1) Grade Level (int)
+    2) Major (std::string)
+    3) Shoe Size (int)
+    4) Height (double)
+    5) Age (int)
 3 things it can do:
     1) Study
     2) Sleep
@@ -99,11 +99,11 @@ Thing 2) Student
 /*
 Thing 3) Teacher
 5 properties:
-    1) Years Taught
-    2) Department
-    3) Official Position
-    4) School
-    5) Degree Level
+    1) Years Taught (int)
+    2) Department (std::string)
+    3) Official Position (std::string)
+    4) School (std::string)
+    5) Degree Level (std::string)
 3 things it can do:
     1) Lecture
     2) Test
@@ -113,11 +113,11 @@ Thing 3) Teacher
 /*
 Thing 4) Vending Machine
 5 properties:
-    1) Number of Bags
-    2) Number of Bottles
-    3) Cost per Bag
-    4) Cost per Bottle
-    5) Weight
+    1) Number of Bags (int)
+    2) Number of Bottles (int)
+    3) Cost per Bag (double)
+    4) Cost per Bottle (double)
+    5) Weight (double)
 3 things it can do:
     1) Dispense Bag
     2) Dispense Bottle
