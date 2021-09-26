@@ -80,76 +80,6 @@ Part1 will be broken up into 5 separate steps
 3) move Thing 5-9 to between your Thing 4 and Thing 10.
 */
 
-/*
-Thing 5)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 6)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 7)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 8)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
-/*
-Thing 9)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
-3 things it can do:
-    1)
-    2)
-    3)
- */
-
 
 
 
@@ -209,6 +139,80 @@ Thing 4) Vending Machine
     1) Dispense Bag
     2) Dispense Bottle
     3) Alarm
+ */
+
+
+/*
+Thing 5) Steering Wheel
+5 properties:
+    1) Radius (double)
+    2) Yaw (double)
+    3) Resistance (double)
+    4) Shape (int)
+    5) Color (std::string)
+3 things it can do:
+    1) Turn Left
+    2) Turn Right
+    3) Honk
+ */
+
+/*
+Thing 6) Air Conditioner
+5 properties:
+    1) Max Temp (double)
+    2) Min Temp (double)
+    3) Number of Settings (int)
+    4) Recirculation (bool)
+    5) Is Vent Open (bool)
+3 things it can do:
+    1) Cool Car
+    2) Heat Car
+    3) Increase Fan Speed
+ */
+
+er
+
+
+/*
+Thing 7) GPS
+5 properties:
+    1) Display Width (double)
+    2) Display Height (double)
+    3) Height Above Dashboard (double)
+    4) Sleep Mode (bool)
+    5) Direction (double)
+3 things it can do:
+    1) Recalculate
+    2) Cancel Route
+    3) Find Car Location
+ */
+
+/*
+Thing 8) Window
+5 properties:
+    1) Window Width (double)
+    2) Window Height (double)
+    3) Window Material (std::string)
+    4) Window Opacity (double)
+    5) Window Tint (std::string)
+3 things it can do:
+    1) Open 
+    2) Close
+    3) DeFog
+ */
+
+/*
+Thing 9) Gear Shifter
+5 properties:
+    1) Number of Gears (int)
+    2) Current Position (int)
+    3) Forward or Backward (bool)
+    4) Neutral (bool)
+    5) Is Automatic Gear Shift On (bool)
+3 things it can do:
+    1) Reverse
+    2) Neutral
+    3) Turn on Automatic Gear Shift
  */
 
 /*
