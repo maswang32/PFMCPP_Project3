@@ -170,8 +170,6 @@ Thing 6) Air Conditioner
     3) Increase Fan Speed
  */
 
-er
-
 
 /*
 Thing 7) GPS
